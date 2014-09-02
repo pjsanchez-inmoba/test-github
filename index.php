@@ -14,6 +14,7 @@
 	</head>
 	<body>
 		<h1>Hello, world!</h1>
+		<h1>Hola Mundo!</h1>
 		<p>Lorem ipsum dolor sit amet</p>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
